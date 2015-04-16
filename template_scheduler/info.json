@@ -1,0 +1,8 @@
+{
+    "identifier": "custom_scheduler",
+    "name": "CustomScheduler",
+    "author": "you@yourdomain.com",
+    "license": "AGPLv3",
+    "description": "A template for custom schedulers for PyBossa.",
+    "version": "0.0.1"
+}

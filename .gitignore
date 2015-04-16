@@ -1,0 +1,8 @@
+*.egg-info
+*.pyc
+*.db
+env/
+*.noseids
+.DS_Store
+pybossa/
+.vagrant/
