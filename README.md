@@ -36,3 +36,10 @@ your scheduler. Also change the name field to be the name of the class renamed a
 
 If you need a hint, you can see a working example of a customised scheduler [here](https://github.com/PyBossa/random-scheduler).
 
+## Installing your scheduler
+
+Once you have it running, you can install it to your PyBossa server just by moving
+the template_scheduler (though you will have renamed it) folder with all its
+content (plus any additional files you may have created for your scheduler) to
+the plugins folder in PyBossa. That's all, next time you boot the PyBossa server
+you will have the new scheduler available.
