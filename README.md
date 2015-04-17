@@ -26,7 +26,7 @@ Also, don't forget to pick up a cool name for your scheduler and use it instead
 of the 'template' that you'll find in the following places:
 
 - template_scheduler package
-- template_scheduler/__init__.py. There you'll also see two constants, SCHEDULER_NAME
+- template_scheduler/\__init\__.py. There you'll also see two constants, SCHEDULER_NAME
 and SCHEDULER_DISPLAY_NAME which are, respectively, the internal denomination for
 your scheduler, and the name you will see on the web GUI in PyBossa when choosing
 the scheduler for any project. Also check and rename the TemplateScheduler class
@@ -35,3 +35,4 @@ there.
 your scheduler. Also change the name field to be the name of the class renamed above.
 
 If you need a hint, you can see a working example of a customised scheduler [here](https://github.com/PyBossa/random-scheduler).
+
